@@ -1,0 +1,21 @@
+Req ID	 Requisito	 Fonte
+RF01	 Gestão de usuários	 PsicoManager + LGPD
+RF02	 Agendamento	 PsicoManager
+RF03	 Autobooking	 PsicoManager App
+RF04	 Lembretes	 PsicoManager
+RF05	 Prontuário eletrônico	 PsicoManager
+RF06	 Teleconsulta	 PsicoManager
+RF07	 Financeiro	 PsicoManager
+RF08	 Relatórios	 PsicoManager
+RF09	 Consentimento LGPD	 Lei LGPD
+RF10	 Auditoria	 LGPD + PsicoManager
+RF11	 Apps	 PsicoManager (Android/iOS)
+RF12	 IA evoluções	 PsicoManager
+RNF01	 Conformidade LGPD	 Lei LGPD
+RNF02	 Segurança	 PsicoManager
+RNF03	 Disponibilidade	 ISO/IEC 25010
+RNF04	 Usabilidade	 ISO/IEC 25010
+RNF05	 Performance	 ISO/IEC 25010
+RNF06	 Portabilidade	 PsicoManager
+RNF07	 Manutenibilidade	 ISO/IEC 25010
+RNF08	 Privacidade por design	 LGPD
