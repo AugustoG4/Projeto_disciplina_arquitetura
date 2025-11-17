@@ -1,8 +1,3 @@
-
-```markdown
-# Modelo Entidade-Relacionamento (MER) - Clínica de Psicologia
-
-```mermaid
 erDiagram
     PACIENTE {
         int id_paciente PK
