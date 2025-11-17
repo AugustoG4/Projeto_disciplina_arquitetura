@@ -33,7 +33,7 @@ Este documento apresenta o **Dicionário de Dados** do Sistema de Gestão da Cl�
 ---
 
 # 2. Diagrama Conceitual de Dados  
-
+```mermaid
 erDiagram
     PACIENTE {
         int id_paciente PK
@@ -94,6 +94,7 @@ erDiagram
     CONSULTA ||--|| PRONTUARIO : "gera"
     CONSULTA ||--|| PAGAMENTO : "possui"
     CONSULTA ||--o{ LEMBRETE : "envia"
+    ```
 
 ---
 

@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     PACIENTE {
         int id_paciente PK
@@ -58,3 +59,4 @@ erDiagram
     CONSULTA ||--|| PRONTUARIO : "gera"
     CONSULTA ||--|| PAGAMENTO : "possui"
     CONSULTA ||--o{ LEMBRETE : "envia"
+```
