@@ -18,10 +18,9 @@ graph TD
     C -->|Gerencia agenda| D
     C -->|Confirma pagamentos| D
     C -->|Gera relatórios| D
-
+```
 
 ---
-```markdown
 # Casos de Uso Completos - Clínica de Psicologia
 
 ## UC01 – Agendar Consulta
