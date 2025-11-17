@@ -1,5 +1,3 @@
-# Diagrama de Casos de Uso - Sistema de Clínica de Psicologia
-
 ```mermaid
 %% Diagrama de Casos de Uso
 graph TD
