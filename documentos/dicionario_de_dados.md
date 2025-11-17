@@ -94,7 +94,7 @@ erDiagram
     CONSULTA ||--|| PRONTUARIO : "gera"
     CONSULTA ||--|| PAGAMENTO : "possui"
     CONSULTA ||--o{ LEMBRETE : "envia"
-    ```
+```
 
 ---
 
